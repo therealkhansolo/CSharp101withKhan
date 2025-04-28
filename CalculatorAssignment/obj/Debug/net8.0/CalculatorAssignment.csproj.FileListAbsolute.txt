@@ -1,0 +1,15 @@
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.exe
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.deps.json
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.runtimeconfig.json
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.dll
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\bin\Debug\net8.0\CalculatorAssignment.pdb
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfoInputs.cache
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.AssemblyInfo.cs
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.sourcelink.json
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.dll
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\refint\CalculatorAssignment.dll
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.pdb
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\CalculatorAssignment.genruntimeconfig.cache
+C:\Users\likha\source\repos\CSharp101withKhan\CalculatorAssignment\obj\Debug\net8.0\ref\CalculatorAssignment.dll
